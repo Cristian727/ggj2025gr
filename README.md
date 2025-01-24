@@ -11,6 +11,7 @@ Al circulo que es el movimiento de la medusa, teneis que poner en Movement Type:
 Speed en ambos ponerlo en 8
 
 # Pasar de nivel
+He creado un script de movimiento basico para comprobar que el player al moverse hasta el collider pueda pasar de nivel. (WASD)
 Collider para pasar de una escena a otra.
 He creado un script llamado "LevelTransition". Teneis primero que crear un objeto vacio y añadirle un box collider 2D. No olvideis acticar el IsTrigger.
 Ademas dentro de Box Collider 2D, en la parte de "Size" teneis que poner la X en 13(OPCIONAL, PODEMOS CAMBIARLO).
