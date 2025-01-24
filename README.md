@@ -17,3 +17,6 @@ Ademas dentro de Box Collider 2D, en la parte de "Size" teneis que poner la X en
 
 Por ultimo añadir el script que he creado y no olvideis que en la interfaz de unity a la hora de meter el script en el "Next Scene Name" tendreis que poner el nombre
 de la escena donde quereis que vaya dirigido(Level1, Level2...)
+
+# Game over
+Es basicamente cogerlo de mi carperta de assets ya que esta todo bien implementado con el funcionamiento clave de los botones
